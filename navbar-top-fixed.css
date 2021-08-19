@@ -1,0 +1,28 @@
+/* Show it is fixed to the top */
+body {
+  min-height: 75rem;
+  padding-top: 4.5rem;
+}
+.navbar-brand
+{
+  font-weight: 800;
+  text-transform: uppercase;
+}
+.nav-item
+{
+  font-weight: 650;
+  text-transform: uppercase;
+}
+.navbar-light .navbar-nav .nav-item .nav-link:hover
+{
+  background: #C70039;
+  color: #000000;
+}
+.navbar-light .navbar-nav .nav-item .nav-link
+{
+  color: #575757;
+  padding: 5px 15px;
+}
+.tim img {
+  width: 250px;
+}
